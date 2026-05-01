@@ -1,6 +1,7 @@
 # egrep
 
 > এই কমান্ডটি `grep --extended-regexp` - এর একটি উপনাম।
+> আরও তথ্য পাবেন: <https://manned.org/egrep>।
 
 - মূল কমান্ডের ডকুমেন্টেশন দেখুন:
 
